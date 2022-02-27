@@ -57,8 +57,6 @@ const ApiCall = () => {
 
    useEffect(()=> {
        getApiData()
-
-
    },[page])
 
    //for the pagenation 
